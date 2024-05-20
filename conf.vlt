@@ -1,0 +1,3 @@
+`verilator_config
+lint_off -file "fpu/adder/adder.v"
+lint_off -rule TIMESCALEMOD
